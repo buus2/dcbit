@@ -1,0 +1,26 @@
+# Demo from Data Community Bydgoszcz i Toruń, 27.02.2019
+
+## Preparation
+```
+virtualenv -p python3 dcbit_env
+source dcbit_env/bin/activate
+pip install jupyterlab
+```
+
+## Working with this demo
+
+1. Clone this repository
+2. Make sure `dcbit_env` is activated
+3. Type `jupyter lab`
+4. Open `demo.ipynb`
+5. Run the first cell
+6. If a module is missing install it by running `!pip install NAME` in a new cell
+7. Enjoy the demo
+
+## Alien vs. Predator Keras and PyTorch demo
+
+https://app.neptune.ml/o/deepsense-ai/org/Keras-vs-PyTorch/experiments
+
+## Useful links
+
+https://github.com/buus2/dcbit/wiki/Useful-links
