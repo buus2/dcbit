@@ -20,6 +20,7 @@ pip install jupyterlab
 ## Alien vs. Predator Keras and PyTorch demo
 
 [Blog post](https://medium.freecodecamp.org/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02)
+
 https://app.neptune.ml/o/deepsense-ai/org/Keras-vs-PyTorch/experiments
 
 ## Useful links
