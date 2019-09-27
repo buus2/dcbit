@@ -23,6 +23,10 @@ pip install jupyterlab
 
 https://app.neptune.ml/o/deepsense-ai/org/Keras-vs-PyTorch/experiments
 
+## Recording of the meeting in February 2019 (in Polish)
+
+https://www.youtube.com/watch?v=7bU_4QBubGA
+
 ## Useful links
 
 https://github.com/buus2/dcbit/wiki/Useful-links
